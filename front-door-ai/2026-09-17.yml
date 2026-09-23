@@ -1,0 +1,25 @@
+# Front Door AI Index — open-government-uk — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: open-government-uk
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: data.gov.uk
+  final_host: www.data.gov.uk
+  ownership: inherited
+  owner: open-government-uk
+  shares_host_with: null
+  inherited_from: www.data.gov.uk
+  verdict: scored
+  score: null
+  host_score: 1
+  density: null
+  words: 311
+  tiers:
+    agentic: 0
+    core: 1
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 1
