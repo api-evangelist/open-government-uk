@@ -39,7 +39,6 @@ apis:
   - name: Open Government, UK
     description: "UK Government Open Data"
     humanURL: https://data.gov.uk/
-    baseURL: https://data.gov.uk/
     tags:
       - Government
     properties:
