@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: data.gov.uk
   final_host: www.data.gov.uk
-  ownership: inherited
+  ownership: own
   owner: open-government-uk
   shares_host_with: null
-  inherited_from: www.data.gov.uk
+  inherited_from: null
+  alias_of: www.data.gov.uk
   verdict: scored
-  score: null
+  score: 1
+  band: 2
+  band_label: trace
   host_score: 1
-  density: null
+  density: 3.22
   words: 311
   tiers:
     agentic: 0
